@@ -1,0 +1,27 @@
+{   "name": "Luxury in Bahrein and Argelia",
+    "geo_locations": [
+      { "name": "countries", "values": ["AT"], "location_type":["home"] },
+    ],
+    "genders": [0],
+    "ages_ranges": [
+        {"min":18, "max":24},
+        {"min":44, "max":65}
+    ],
+    "scholarities":[{
+        "name" : "Graduated",
+        "or" : [3,7,8,9,11]
+      }
+    ],
+    "interests": [{
+            "not": [6004037400009,6003372667195,6003089951815,6003398056603],
+            "name": "fast food"
+        },{
+            "and": [6003190733601,6003327856180,6002951487650,6003382102565,6003257688701],
+            "name" : "obesity"
+        },
+        {
+            "not": [6003190733601,6003327856180,6002951487650,6003382102565,6003257688701],
+            "name" : "obesity"
+        }
+    ]
+}
