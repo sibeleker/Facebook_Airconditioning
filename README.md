@@ -16,7 +16,7 @@ Data collection involves different geographic specifications for four countries 
 
 **Step2_Survey_analysis/** includes all data and code used in producing Figure 1 and 2 published in [Eker et al. (2023)](https://www.cell.com/one-earth/fulltext/S2590-3322(23)00145-8).
 
-## Step 3: 
+## Step 3: Analysing global online interest in air-conditioning
 
 **penetration.ipynb** includes the code for the global penetration analysis (to what extent Facebook audience size is representative of a country's population).
 
